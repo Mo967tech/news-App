@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project.
+Created a news app that fetches and displays live news from RESTful Api
 
 ## Getting Started
 
